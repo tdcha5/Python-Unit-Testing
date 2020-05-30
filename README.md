@@ -1,5 +1,5 @@
 # Python Unittest Cases
-This repository will contain unit test cases using Python's unittest module.
+This repository will contain unit test cases using Python's unittest module.
 
 # May 29 Part 1 Requirements
 - Refactor the application into one function 
@@ -16,6 +16,5 @@ This repository will contain unit test cases using Python's unittest module.
 - Check if user input all three values
 - Check if the user chose from the available operators
 - Set up PyUnit cases for each operator so that I can test each round 
-=======
-This repository will contain unit test cases using Python's unittest module.
-I am using the following documentation. https://docs.python.org/3/library/unittest.html 
+- This repository will contain unit test cases using Python's unittest module.
+- I am using the following documentation. https://docs.python.org/3/library/unittest.html 
