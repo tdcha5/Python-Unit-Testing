@@ -1,5 +1,4 @@
 # Python Unittest Cases
-<<<<<<< HEAD
 This repository will contain unit test cases using Python's unittest module.
 
 I am using the following documentation. https://docs.python.org/3/library/unittest.html 
@@ -11,7 +10,7 @@ I am using the following documentation. https://docs.python.org/3/library/unitt
 - When a user chooses 'subract', the two chosen values should be added together. 
 - When a user chooses 'multiply', the two chosen values should be multiplied.
 - When a user chooses 'divide', the two chosen values should be divided.
--- When a user chooses 'divide', check that the user is not able to divide by 0
+- When a user chooses 'divide', check that the user is not able to divide by 0
 - Allow a user to input values
 - Verify that the chosen operator is an available operator
 - Verify that after an operator is chosen, the user can choose values
@@ -23,4 +22,3 @@ I am using the following documentation. https://docs.python.org/3/library/unitt
 =======
 This repository will contain unit test cases using Python's unittest module.
 I am using the following documentation. https://docs.python.org/3/library/unittest.html 
->>>>>>> 9321ce7d8853b348e94e2bdddc9412ec911a72c0
